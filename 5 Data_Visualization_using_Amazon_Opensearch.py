@@ -46,4 +46,4 @@ if __name__ == '__main__':
     o.set_access_token(b, c)
     p = Stream(o, n)
 
-    p.filter(track=['realmadrid'])
+    p.filter(track=['AWS'])
