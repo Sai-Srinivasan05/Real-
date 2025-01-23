@@ -18,7 +18,6 @@ The architecture for real-time Twitter sentiment analysis includes the following
 4. **AWS Comprehend**: Performs sentiment analysis on the text and classifies it into categories: Positive, Negative, Neutral, or Mixed.
 5. **AWS DynamoDB**: Results from sentiment analysis are stored in a DynamoDB table for real-time querying and analytics.
 6. **AWS S3**: Tweets and their sentiment classifications are stored in S3 for long-term storage and batch analysis.
-7. **Dashboard/Visualization**: Optional setup for visualizing sentiment trends in real time using services like Amazon QuickSight or external visualization tools.
 
 ## AWS Services Used
 
